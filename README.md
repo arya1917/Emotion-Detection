@@ -1,5 +1,3 @@
-Here's the updated **README.md** tailored specifically to your project and the provided code:  
-
 ---
 
 # Real-Time Face Emotion Detection System 🎭  
