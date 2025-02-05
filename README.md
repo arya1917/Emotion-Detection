@@ -108,15 +108,3 @@ Feel free to fork, improve, and contribute to this project!
 ## License 📄  
 This project is open-source and available under the MIT License.  
 
----
-
-### Add this README to your repository:  
-1. Save this content as `README.md` in your project folder.  
-2. Commit and push to your GitHub repository:  
-   ```bash  
-   git add README.md  
-   git commit -m "Added README file for the Emotion Detection project"  
-   git push origin main  
-   ```  
-
-Let me know if you'd like any further tweaks! 🚀
